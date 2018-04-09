@@ -41,4 +41,4 @@ Your MachinePlayer competes against itself.
 ## About
 The old version is in [GreatLim/cs61b14/pj2](https://github.com/GreatLim/cs61b14/tree/master/pj/pj2)
 
-Especially, thank [@nkhu](https://github.com/nkhu) for her hard work to finish this tough project.
+Especially, thank [@nkhu](https://github.com/nkhu) for her hard work to finish this tough project with me.
